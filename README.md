@@ -23,11 +23,11 @@ virtualenv venv
 source venv/bin/activate
 
 #### Install required dependencies
-pip install django
-pip install whitenoise
-pip install django-rest-knox
-pip install djangorestframework
-pip install django-cors-headers 
+- pip install django
+- pip install whitenoise
+- pip install django-rest-knox
+- pip install djangorestframework
+- pip install django-cors-headers 
 
 #### Switch to the project directory
 cd react_login
